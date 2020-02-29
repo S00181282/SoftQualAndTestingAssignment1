@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftQualWebApp", "SoftQualW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftQualWebApp.Tests", "SoftQualWebApp.Tests\SoftQualWebApp.Tests.csproj", "{EEF9A4F7-D321-4574-B61D-53343381747E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftQualAssignmentNUnitTest", "SoftQualAssignmentNUnitTest\SoftQualAssignmentNUnitTest.csproj", "{A12A4F5F-A8D1-4749-B9A3-EA9AFBF4C996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EEF9A4F7-D321-4574-B61D-53343381747E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEF9A4F7-D321-4574-B61D-53343381747E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEF9A4F7-D321-4574-B61D-53343381747E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12A4F5F-A8D1-4749-B9A3-EA9AFBF4C996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12A4F5F-A8D1-4749-B9A3-EA9AFBF4C996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12A4F5F-A8D1-4749-B9A3-EA9AFBF4C996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12A4F5F-A8D1-4749-B9A3-EA9AFBF4C996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
